@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+#Caesar Cipher
 # Caesar Cipher Implementation in Python
 
 This repository contains a simple implementation of the Caesar Cipher algorithm in Python. The Caesar Cipher is one of the oldest and simplest methods of encryption, where each letter in the plaintext is shifted a fixed number of places down or up the alphabet
